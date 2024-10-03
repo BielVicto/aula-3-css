@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+     
+}
+.caixa{
+    margin:20%;
+    padding: 1.25rem;
+    background-color: aquamarine;
+    border: 2px chartreuse;
+    height:  6.25rem;
+    width: 12.5rem;
+
+    
+}
